@@ -41,7 +41,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/Shankssama/HellBot">💥 HELLBOT 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
@@ -112,7 +112,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/MafiaBotOP/MafiaBotOP) is free software: you can redistribute it and/or modify
+Poject [MAFIABOT](https://github.com/Shankssama/MafiaBotOP) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
